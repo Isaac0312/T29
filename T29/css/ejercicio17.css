@@ -1,0 +1,154 @@
+body{
+    background-image: url(../images/ac.jpg);
+}
+#A{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    display: inline-block;
+    background-image: url(../images/back_mantel.jpg);
+}
+
+#B{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-image: url(../images/back_mantel.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: 60%;
+}
+
+#C{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    display: inline-block;
+    background-size: 100%;
+    background-image: url(../images/back_mantel.jpg);
+}
+
+#D{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-image: url(../images/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    background-position: 50%;
+    background-color: white;
+}
+
+#E{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-size: 160px;
+    background-image: url(../images/dh.jpg);
+}
+
+#F{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-image: url(../images/dh.jpg);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    background-position: 50%;
+    background-color: white;
+}
+
+#G{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-image: url(../images/dh_2.jpg);
+    background-repeat: no-repeat;
+    background-size: 160px;
+    background-color: white;
+}
+
+
+#H{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-position: center;
+    background-image: url(../images/dh_3.jpg);
+    background-repeat: no-repeat;
+    background-size: 90px;
+    background-color: white;
+}
+
+#I{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-image: linear-gradient(to right, rgb(172, 243, 92), rgb(61, 66, 60));
+}
+
+#J{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-image: linear-gradient(to top, rgb(167, 77, 18), rgb(241, 175, 137));
+}
+
+#K{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-image: linear-gradient(to top, rgb(35, 167, 18), rgb(184, 241, 137));
+}
+
+#L{
+    width: 160px;
+    height: 160px;
+    margin-right: 50px;
+    margin: 50px 50px 50px 50px;
+    border: 1px black solid;
+    text-align: center;
+    display: inline-block;
+    background-image: linear-gradient(to bottom, rgba(255,0,0,0), rgb(8, 100, 16));
+}

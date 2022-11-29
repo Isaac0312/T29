@@ -1,0 +1,12 @@
+table, th, td, tr {
+    border: 3px solid rgb(169, 241, 247);
+}
+tr.titulos{
+    background-color:rgb(21, 136, 31); color: rgb(149, 250, 174);
+}
+tr.primera{
+    background-color:rgb(131, 238, 140);
+}
+tr.segunda{
+    background-color:rgb(70, 189, 80);
+}

@@ -1,0 +1,18 @@
+table.tabla,tr,th,td{
+    color:rgb(141, 57, 57);
+    text-align:center;
+    border: 1px solid rgb(161, 161, 159);
+}
+#titulo{
+    background-color:rgb(189, 245, 189);
+}
+td.naranja{
+    background-color:rgb(247, 205, 144);
+}
+td.amarillo{
+    background-color:rgb(230, 233, 92);
+}
+
+td.huellas{
+    background-color:rgb(231, 216, 165);
+}

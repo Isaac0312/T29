@@ -1,0 +1,31 @@
+div.primero{
+    background: url(../images/f01.png),url(../images/f02.png),url(../images/f03.png);
+    background-repeat: repeat-x, no-repeat, no-repeat; 
+    background-position: bottom,center,top;
+    background-color: #a4d3ff;
+    width: 150px;
+    height: 110px;
+    border: blue 3px solid;
+}
+
+div.medio{
+    background: url(../images/f01.png),url(../images/f02.png),url(../images/f03.png);
+    background-repeat: repeat-x, no-repeat, repeat-x; 
+    background-position: bottom, bottom left,top;
+    background-color: #a4d3ff;
+    width: 650px;
+    height: 500px;
+    border: red 3px solid;
+    margin-left: 50px;
+}
+
+div.ultimo{
+    background: url(../images/f01.png),url(../images/f02.png),url(../images/f03.png);
+    background-repeat: repeat-x, no-repeat, no-repeat; 
+    background-position: bottom,center,top;
+    background-color: #a4d3ff;
+    width: 150px;
+    height: 110px;
+    border: blue 3px solid;
+    
+}

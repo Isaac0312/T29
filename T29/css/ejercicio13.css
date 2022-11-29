@@ -1,0 +1,17 @@
+h2{
+    text-align: center;
+}
+
+table,td,tr{
+    border: 3px solid rgb(103, 107, 107);
+}
+
+table.tabla{
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+td.Celda6{
+    text-align:right;
+    vertical-align: bottom;
+}
